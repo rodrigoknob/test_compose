@@ -1,0 +1,4 @@
+#!/bin/sh
+
+touch /opt/testcompose/linux_post.txt
+echo "=========Hello"
